@@ -1,0 +1,15 @@
+/home/laura/programmiersprachen-aufgabenblatt-4/build/CMakeFiles/rebuild_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/CMakeFiles/edit_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/CMakeFiles/nanovg.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/CMakeFiles/rebuild_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/CMakeFiles/edit_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/src/CMakeFiles/rebuild_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/src/CMakeFiles/edit_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/src/CMakeFiles/glfw.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/docs/CMakeFiles/rebuild_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/docs/CMakeFiles/edit_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/external/glfw-3.2.1/docs/CMakeFiles/docs.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/rebuild_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/TestList.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/edit_cache.dir
+/home/laura/programmiersprachen-aufgabenblatt-4/build/source/CMakeFiles/beispielprogramm.dir
